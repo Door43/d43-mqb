@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqb:home|Door43 (mqb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqb|d43-mqb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqb/archive/master.zip|d43-mqb.zip]]
+
+**Recent Changes**
+{{changes>ns = mqb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqb|Ethnologue data]]
+
